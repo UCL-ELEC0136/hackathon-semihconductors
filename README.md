@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9190087&assignment_repo_type=AssignmentRepo)
 # Hackathon #1 
 
-Hello and welcome to your first hackathon in the UCL-ELEC0136, Data Acquisition and Processing Systems course at UCL.
+Hello and welcome to your first hackathon in the UCL-ELEC0136, Data Acquisition and Processing Systems course at UCL - branch elie
 
 The goal of this laboratory is to provide you with a practical and effective understanding of how to interact with RESTful web APIs, acquire data, store and processes it, and submit it for review.
 At completion, you will have acquired the following skills and knowledge:
